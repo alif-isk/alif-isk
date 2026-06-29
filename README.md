@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alif-isk
 - 👀 I’m interested in Games and Animes.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Godot.
+- 💞️ I’m looking to work in Software Dev, Network Engineer, Cyber Security
+- 📫 How to reach me: alifiskandar.cs@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can curl my tounge into three parts. Is that interesting?
 
